@@ -1,0 +1,1 @@
+[{"id":"2760d268.76574e","type":"change","z":"137074bf.05662b","name":"","rules":[{"t":"set","p":"payload","pt":"msg","to":"Message Changed","tot":"str"}],"action":"","property":"","from":"","to":"","reg":false,"x":420,"y":220,"wires":[["f9b5ed8c.b6491"]]}]
