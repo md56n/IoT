@@ -1,0 +1,1 @@
+[{"id":"c55c74cc.f454d8","type":"range","z":"137074bf.05662b","minin":"0","maxin":"500","minout":"0","maxout":"5","action":"scale","round":false,"property":"payload","name":"","x":420,"y":220,"wires":[["f9b5ed8c.b6491"]]}]
