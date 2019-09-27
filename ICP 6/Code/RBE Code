@@ -1,0 +1,1 @@
+[{"id":"2469676c.a7b2e8","type":"rbe","z":"137074bf.05662b","name":"BlockGreaterThan50%Change","func":"narrowband","gap":"50%","start":"50","inout":"out","property":"payload","x":430,"y":220,"wires":[["f9b5ed8c.b6491"]]}]
